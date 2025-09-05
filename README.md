@@ -1,4 +1,4 @@
-##任务要求：
+## 任务要求：
 基于cs231n课程assignment2的PyTorch on CIFAR-10实验，完成以下：
 
 ### 1. 把数据集换为CIFAR-100
